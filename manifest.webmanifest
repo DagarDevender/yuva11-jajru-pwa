@@ -1,0 +1,22 @@
+{
+  "name": "Yuva 11 Jajru \u2013 Team Fund Manager",
+  "short_name": "Yuva 11 Jajru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f3",
+  "theme_color": "#173b32",
+  "description": "Local cricket team fund manager",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
